@@ -143,4 +143,4 @@ source $build_dir/.zsh_alias
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f $build_dir/.p10k.zsh ]] || source $build_dir/.p10k.zsh
 
-sudo run-parts /etc/update-motd.d
+# sudo run-parts /etc/update-motd.d
